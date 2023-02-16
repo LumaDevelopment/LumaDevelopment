@@ -4,7 +4,6 @@ Hey! I'm a Computer Science student and a freelance developer. GitHub is both my
 ---
 
 ### Visitor To-Do
-- Visit [website](https://lumadevelopment.net)
 - Check out my Java work ([Velox](https://github.com/LumaDevelopment/Velox))
 - Check out my Chrome extension ([Traverse](https://github.com/LumaDevelopment/Traverse))
 - Check out my Web work ([Redsky writeup](https://gist.github.com/LumaDevelopment/f2a34a202fed6ab5a7f3a31282834943), [OpenWarranty](https://github.com/LumaDevelopment/OpenWarranty))
