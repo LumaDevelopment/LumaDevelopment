@@ -5,8 +5,8 @@ Hey! My name is Joshua and I'm a Computer Science student. GitHub is both my arc
 | Topic          | Project(s)                                                                                                                                           |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Java & Android | [Velox](https://github.com/LumaDevelopment/Velox)                                                                                                    |
-| C# & .NET      | [CourseDistributor](https://github.com/LumaDevelopment/CourseDistributor) & [DALLE·2 Frontend](https://github.com/LumaDevelopment/DALLE-2-Frontend) |
-| IoT            | [Soundboard](https://github.com/LumaDevelopment/Soundboard)                                                                                          |
+| C# & .NET      | [CourseDistributor](https://github.com/LumaDevelopment/CourseDistributor) & [DALLE·2 Frontend](https://github.com/LumaDevelopment/DALLE-2-Frontend)  |
+<!--| IoT            | [Soundboard](https://github.com/LumaDevelopment/Soundboard)                                                                                          |-->
 
 ## Web Work
 | Topic               | Project                                                                                    |
