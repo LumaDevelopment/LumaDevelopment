@@ -4,7 +4,6 @@ My name is Joshua and I'm studying Computer Science at the Florida Institute of 
 ## My Work
 
 - 📱 **STREAM API**, a multi-protocol, extensible, mobile ad-hoc networking library for Android. *A [CADAS](https://cadas.fit.edu/) project, sponsored by AFRL/RYAA.*
-- 📖 **[Bibleguessr](https://bibleguessr.gg/)**, a web game designed to foster interest in the Bible. *I am the lead backend software engineer and systems administrator.*
 - 🏫 **[CourseDistributor](https://github.com/LumaDevelopment/CourseDistributor)**, a C# + .NET application that automatically schedules college courses!
 - 🚶 **[Traverse](https://github.com/LumaDevelopment/Traverse)**, a Chrome extension that keeps track of how many websites you visit in a day!
 - 🎲 **[Velox](https://github.com/LumaDevelopment/Velox)**, a speed-oriented math game from Android where you speak your answer!
