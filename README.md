@@ -1,5 +1,5 @@
 # Hey!
-My name is Joshua and I'm studying Computer Science at the Florida Institute of Technology (B.S. 2022-2025). My fields of interest are software engineering, networking, distributed + parallel computing, artificial intelligence, and machine learning.
+My name is Joshua and I'm studying Computer Science at the Florida Institute of Technology (B.S. 2022-2025). My fields of interest are software architecture & design, networking, federated learning, and distributed & parallel computing.
 
 ## My Work
 
