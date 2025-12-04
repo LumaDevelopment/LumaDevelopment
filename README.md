@@ -4,6 +4,7 @@ My name is Joshua and I'm studying Computer Science at the Florida Institute of 
 ## My Work
 
 - 🔒 **[`pypiactl`](https://github.com/LumaDevelopment/pypiactl)**, a wrapper for the command-line interface to the Private Internet Access (PIA) client.
+- 🦖 **[DinoGameASM](https://github.com/LumaDevelopment/DinoGameASM)**, `chrome://dino` remade in Assembly.
 - 📱 **STREAM API**, a multi-protocol, extensible, mobile ad-hoc networking library for Android. *A [CADAS](https://cadas.fit.edu/) project, sponsored by AFRL/RYAA.*
 - 🌊 **[Receding Coastlines](https://github.com/YashedP/Shellhacks-2025/tree/main?tab=readme-ov-file#backend)**, a platform which allows you to visualize the impact rising sea levels will have on Florida's eastern coast.
 - 🧠 **Artificial Intelligence**, materials from the [regular](https://github.com/LumaDevelopment/ArtificialIntelligence) and [advanced](https://github.com/LumaDevelopment/AdvancedTopicsInAI) Artifical Intelligence courses at the Florida Institute of Technology.
